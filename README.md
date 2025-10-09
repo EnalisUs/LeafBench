@@ -69,7 +69,7 @@ LeafBench uses a simple **CSV format** to represent the multimodal reasoning dat
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/LeafBench.git
+git clone https://github.com/EnalisUs/LeafBench.git
 cd LeafBench
 pip install -r requirements.txt
 ```
