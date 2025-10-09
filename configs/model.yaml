@@ -1,0 +1,36 @@
+# Vision-Language Models for LeafBench Benchmark
+
+models:
+
+  - name: LLaVA 1.5
+    type: hf
+    id: llava-hf/llava-1.5-7b-hf
+
+  - name: Qwen2.5-VL
+    type: hf
+    id: Qwen/Qwen2.5-VL
+
+  - name: BLIP-2
+    type: hf
+    id: Salesforce/blip2-flan-t5-xl
+
+  - name: CLIP
+    type: hf
+    id: openai/clip-vit-base-patch16
+
+
+  - name: SigLIP
+    type: hf
+    id: google/siglip-base-patch16-224
+
+  - name: SigLIP2
+    type: hf
+    id: google/siglip2-base-patch16-224
+
+  - name: InternVL3.5
+    type: hf
+    id: OpenGVLab/InternVL3-5
+
+  - name: ALIGN
+    type: hf
+    id: ALIGN/align-vit-base
