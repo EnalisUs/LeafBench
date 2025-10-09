@@ -15,7 +15,7 @@ This repository provides scripts for **evaluating model accuracy and F1-score** 
 ---
 
 ## 🧩 Repository Structure
-
+```
 LeafBench/
 │
 ├── requirements.txt                # Python dependencies
@@ -42,7 +42,7 @@ LeafBench/
 │
 └── results/                        # Folder for output JSON or CSV results
     └── example_result.json          # Sample evaluation output
-
+```
 ---
 
 ## 📊 Evaluation Metrics
