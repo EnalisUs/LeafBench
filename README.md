@@ -1,4 +1,4 @@
-# 🌿 LeafBench: A Benchmark for Evaluating Vision-Language Models in Agricultural Intelligence
+# 🌿 LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases
 
 LeafBench is a large-scale benchmark designed to evaluate the reasoning and perception capabilities of **Vision-Language Models (VLMs)** on **agricultural visual understanding tasks**.  
 This repository provides scripts for **evaluating model accuracy and F1-score** on the benchmark dataset.
